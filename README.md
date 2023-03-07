@@ -4,3 +4,5 @@ Pseudo Symons Says, it randomly generates a light on the NXP board and the user 
 To open and use you need a NXP KLO5Z board and connect it to the device 
 To test the code connect the NXP KLO5Z board to the computer of choice 
 And use uVision to open the folder
+
+The code tested our abilities to use C code and Assembly to communicate with a periphal device
